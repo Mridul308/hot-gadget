@@ -1,0 +1,52 @@
+.container{
+    margin-right: 0px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    /* width: 5000px; */
+}
+.button{
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+}
+#logo img{
+    width: 100%;
+}
+.frist{
+    background-color:#FFFFFF;
+    padding: 20px;
+}
+.mono{
+    margin-top: 80px;
+}
+hr.rounded{
+    color: orange;
+    width: 12%;
+    border-top: 10px solid;
+}
+.cat1{
+    /* border: 5px solid red; */
+    padding-left: 50px;
+}
+.card{
+    border: none;
+    border-radius: 7px;
+    box-shadow: 5px 5px 10px;
+    text-align: center;
+}
+/* .smart{
+    padding: 20px;
+}
+.laptop{
+    padding: 20px;
+} */
+#contain{
+    text-align: center;
+}
+.footer{
+    /* margin: 20px; */
+    /* padding: 50px; */
+}
+#pale img{
+    width: 100%;
+}
